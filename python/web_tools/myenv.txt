@@ -1,0 +1,3 @@
+MYDIR=/home/eveline/python/web_tools/mydir
+MYDIR2=/home/eveline/python/web_tools/mydir2
+MYDIR3=/home/eveline/python/web_tools/mydir3
