@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from scrapy import Request, Spider
-from scrapy_selenium_demo.items import ProductItem
+from ..items import ProductItem
 
 
 class JdSpider(Spider):

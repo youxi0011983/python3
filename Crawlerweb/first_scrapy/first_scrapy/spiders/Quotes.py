@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: UTF-8 -*-
 import scrapy
-from first_scrapy.items import QuoteItem
+from ..items import QuoteItem
 
 
 class QuotesSpider(scrapy.Spider):

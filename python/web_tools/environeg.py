@@ -17,9 +17,9 @@ ssh = os.environ['SSH_AUTH_SOCK']#ssh的执行路径。
 print(username)
 print(password)
 print(user)
-print(lc)
-print(shell)
-print(lan)
+# print(lc)
+# print(shell)
+# print(lan)
 print(ssh)
 
 
