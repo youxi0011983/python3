@@ -8,7 +8,8 @@ data = {
     'name' : 'Runoob',
     'url' : 'http://www.runoob.com'
 }
- 
-json_str = json.dumps(data)
-print ("Python 原始数据：", repr(data))
-print ("JSON 对象：", json_str)
+
+if __name__ == '__main__':
+    json_str = json.dumps(data)
+    print ("Python 原始数据：", repr(data))
+    print ("JSON 对象：", json_str)
