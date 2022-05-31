@@ -2,6 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 import statsmodels.formula.api as sm
+import pandas as pd
 
 bb = pd.read_csv('data/baseball.csv', index_col='id')
 
